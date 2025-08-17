@@ -1,0 +1,14 @@
+C:\Users\abdel\projet-git\hello-github\bin\Debug\net9.0\hello-github.exe
+C:\Users\abdel\projet-git\hello-github\bin\Debug\net9.0\hello-github.deps.json
+C:\Users\abdel\projet-git\hello-github\bin\Debug\net9.0\hello-github.runtimeconfig.json
+C:\Users\abdel\projet-git\hello-github\bin\Debug\net9.0\hello-github.dll
+C:\Users\abdel\projet-git\hello-github\bin\Debug\net9.0\hello-github.pdb
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.AssemblyInfoInputs.cache
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.AssemblyInfo.cs
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.csproj.CoreCompileInputs.cache
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.dll
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\refint\hello-github.dll
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.pdb
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\hello-github.genruntimeconfig.cache
+C:\Users\abdel\projet-git\hello-github\obj\Debug\net9.0\ref\hello-github.dll
